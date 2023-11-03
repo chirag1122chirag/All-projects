@@ -1,0 +1,18 @@
+#outer
+{
+height:50 0;
+width:1200;
+border:1px solid;
+background-color:black;
+margin:0px auto;
+}
+.one
+{
+height:460px;
+width:370px;
+margin:14px;
+float:left;
+background-color:white;
+fond-family:capiyri;
+text-align:justify;
+}
